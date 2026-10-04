@@ -47,7 +47,7 @@ print("After removing 3:", my_set)
 
 # Topic: Tuple
 
-# 1. Create a tuple with values 1,2,3, ans 4.
+# 1. Create a tuple with values 1,2,3, and 4.
 my_tuple = (1,2,3,4)
 
 # 2. Print the length of the tuple.
